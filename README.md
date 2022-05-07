@@ -37,11 +37,11 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mramra3004&&show_icons=true&theme=radical" alt="MRARMA's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=huyhoang7220&&show_icons=true&theme=radical" alt="Regally's Github Stats">
 </p>  
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/mramra3004/mramra3004/blob/master/resources/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/huyhoang7220/huyhoang7220/blob/master/resources/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/bui-huy-hoang-125b34234/" target="blank">
