@@ -17,7 +17,6 @@
     - ASP.NET Core
     - ASP.NET MVC
 	- HTML, CSS and Javascript :white_check_mark:
-- **Shell Scripting**
 
 ## 🌱 I’m currently learning ...
 - **Data Science**
