@@ -31,7 +31,7 @@
 </p>  
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/huyhoang7220/huyhoang7220/blob/master/resources/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me</h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/bui-huy-hoang-125b34234/" target="blank">
